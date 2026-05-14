@@ -1,4 +1,4 @@
-# Welcome to Lunara Games Studio
+# Welcome to Lunara Games
 
 Lunara Games is an international indie game studio centered around atmospheric storytelling, imaginative worldbuilding, and emotionally engaging experiences. Founded by three creators from different parts of the world, we create games that blend fantasy, mystery, exploration, and artistic identity into worlds players can truly get lost in
 
